@@ -1,4 +1,3 @@
-# Prompt-Genius-AI
 # PromptGenius AI
 
 ### An AI-Powered Prompt Engineering Playground
