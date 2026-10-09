@@ -89,6 +89,4 @@ Sibiral Ruban
 
 B.Sc. Computer Science with Artificial Intelligence
 
-## License
 
-Created for educational purposes.
